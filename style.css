@@ -3,7 +3,7 @@
     padding:0;
 }
 .cabecalho { 
-    background-color: #03662A;
+    background-color: #2C044B;
     color : white;
     display: flex;
     justify-content: space-around;
@@ -12,7 +12,7 @@
 }
 
 .cabecalho-imagem{
-    width: 500px;
+    width: 400px;
 height: 150px;
 }
 
@@ -20,5 +20,12 @@ height: 150px;
     display:inline-block;
     margin: 0 70px;
     font-size: 30px;
+    
 
+}
+
+.games{
+    background-color: #20009F;
+    color : white;
+    padding: 250px
 }
