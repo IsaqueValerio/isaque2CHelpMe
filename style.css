@@ -18,8 +18,8 @@ height: 150px;
 
 .cabecalho-lista-item{
     display:inline-block;
-    margin: 0 70px;
-    font-size: 30px;
+    margin: 0 80px;
+    font-size: 40px;
     
 
 }
@@ -27,5 +27,17 @@ height: 150px;
 .games{
     background-color: #20009F;
     color : white;
-    padding: 250px
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.games-div-conteudo{
+   margin: 0 80px;
+   font-size: 40px;
+   
+}
+.games-titulo{
+    padding: 100px 0;
 }
